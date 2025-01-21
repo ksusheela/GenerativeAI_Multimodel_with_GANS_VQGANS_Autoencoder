@@ -17,22 +17,34 @@
 
 
 # Generative Models:
+
 GAN (Generative Adversarial Networks)
+
 VQGAN (Vector Quantized Generative Adversarial Networks)
+
 CLIP (Contrastive Language–Image Pretraining)
 
 # Retrieval-Augmented Generation (RAG):
+
 Knowledge retrieval systems (e.g., Elasticsearch, Pinecone)
+
 Integration tools for RAG workflows
 
 # Programming Languages
+
 Python: Primary language for developing and fine-tuning models.
+
 SQL: Used for managing and querying structured datasets.
 
 # Libraries and Frameworks
+
 PyTorch: Core framework for developing and fine-tuning machine learning models.
+
 Hugging Face Transformers: For utilizing pretrained models and building pipelines.
+
 OpenAI CLIP: For text-image alignment and embedding.
+
 GAN/VQGAN Frameworks: Custom or library-based implementations.
+
 Diffusers Library: For working with diffusion models like Stable Diffusion.
 
